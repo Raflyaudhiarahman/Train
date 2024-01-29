@@ -1,0 +1,53 @@
+body {
+    font-family: 'Jakarta Sans', sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+header {
+    background-color:green; 
+    color: #fff;
+    padding: 15px;
+}
+
+h1, h2 {
+    color: green; 
+}
+
+a {
+    color: green; 
+}
+
+section {
+    margin: 20px 0;
+    padding: 20px;
+    background-color: lightgray; 
+    border-radius: 10px;
+}
+
+.image-container img {
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+}
+form {
+    text-align: left;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #2ecc71; 
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+button:hover {
+    background-color: #27ae60; 
+
+}
+  
